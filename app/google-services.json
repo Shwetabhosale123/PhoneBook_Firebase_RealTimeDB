@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350342917248",
+    "project_id": "phonebookapp-cd8bd",
+    "storage_bucket": "phonebookapp-cd8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350342917248:android:77a902a8a4a5b335ed0a65",
+        "android_client_info": {
+          "package_name": "com.example.phonebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kAXetHDYYXUUDD_PzQwllCVY9SWsB3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
